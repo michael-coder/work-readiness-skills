@@ -25,6 +25,7 @@ var Obj = {
 	{"name":"Cloud Computing", "progress":20, "class": "progress-bar progress-bar-danger"},
 	{"name":"Docker", "progress":20, "class": "progress-bar progress-bar-danger"},
 	{"name":"Kubernetes ", "progress":20, "class": "progress-bar progress-bar-danger"},
+	
 ]  
 };
 
