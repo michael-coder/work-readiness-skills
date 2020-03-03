@@ -4,7 +4,7 @@ var Obj = {
 	"skills":[
 	{"name":"Agile", "progress":70, "class": "progress-bar progress-bar-info"},
 	{"name":"SAFe Agile", "progress":70, "class": "progress-bar progress-bar-info"},
-	{"name":"PMP", "progress":1, "class": "progress-bar progress-bar-danger"},
+	{"name":"PMP", "progress":2, "class": "progress-bar progress-bar-danger"},
 	{"name":"Google Analytics", "progress":10, "class": "progress-bar progress-bar-danger"},
 	
 	{"name":"HTML", "progress":90, "class": "progress-bar progress-bar-success"},
