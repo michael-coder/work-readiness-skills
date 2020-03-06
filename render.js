@@ -104,11 +104,15 @@ $(document).ready(function() {
         "class": "progress-bar progress-bar-danger"
       },
       {
-        "name": "Kubernetes ",
+        "name": "Kubernetes",
         "progress": 20,
         "class": "progress-bar progress-bar-danger"
       },
-
+      {
+        "name": "Sketch",
+        "progress": 1,
+        "class": "progress-bar progress-bar-danger"
+      },
     ]
   };
 
