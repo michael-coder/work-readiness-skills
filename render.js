@@ -74,7 +74,7 @@ $(document).ready(function() {
       },
       {
         "name": "YAML",
-        "progress": 10,
+        "progress": 20,
         "class": "progress-bar progress-bar-danger"
       },
       {
