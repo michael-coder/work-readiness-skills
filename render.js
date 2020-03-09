@@ -13,7 +13,7 @@ $(document).ready(function() {
       },
       {
         "name": "PMP",
-        "progress": 4,
+        "progress": 5,
         "class": "progress-bar progress-bar-danger"
       },
       {
