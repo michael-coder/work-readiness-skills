@@ -18,7 +18,7 @@ $(document).ready(function() {
       },
       {
         "name": "Google Analytics",
-        "progress": 10,
+        "progress": 15,
         "class": "progress-bar progress-bar-danger"
       },
 
