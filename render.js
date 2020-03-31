@@ -2,6 +2,21 @@ $(document).ready(function() {
   // Handler for .ready() called.
   var Obj = {
     "skills": [{
+        "name": "Fund",
+        "progress": 1,
+        "class": "progress-bar progress-bar-danger"
+      },
+      {
+        "name": "Tax",
+        "progress": 1,
+        "class": "progress-bar progress-bar-danger"
+      },
+      {
+        "name": "Accounting",
+        "progress": 1,
+        "class": "progress-bar progress-bar-danger"
+      },
+      {
         "name": "Agile",
         "progress": 70,
         "class": "progress-bar progress-bar-info"
@@ -12,8 +27,8 @@ $(document).ready(function() {
         "class": "progress-bar progress-bar-info"
       },
       {
-        "name": "PMP",
-        "progress": 6,
+        "name": "PMBOOK",
+        "progress": 17,
         "class": "progress-bar progress-bar-danger"
       },
       {
