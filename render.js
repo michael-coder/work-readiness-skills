@@ -14,7 +14,7 @@ $(document).ready(function() {
       {
         "name": "Accounting",
         "progress": 1,
-        "class": "progress-bar progress-bar-danger" 
+        "class": "progress-bar progress-bar-danger"
       },
       {
         "name": "Agile",
@@ -28,7 +28,7 @@ $(document).ready(function() {
       },
       {
         "name": "PMBOOK",
-        "progress": 17,
+        "progress": 22,
         "class": "progress-bar progress-bar-danger"
       },
       {
