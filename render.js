@@ -28,7 +28,7 @@ $(document).ready(function() {
       },
       {
         "name": "PMBOOK",
-        "progress": 22,
+        "progress": 24,
         "class": "progress-bar progress-bar-danger"
       },
       {
