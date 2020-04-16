@@ -74,7 +74,7 @@ $(document).ready(function() {
       },
       {
         "name": "Git",
-        "progress": 50,
+        "progress": 60,
         "class": "progress-bar progress-bar-warning"
       },
       {
