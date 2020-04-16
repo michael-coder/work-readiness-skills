@@ -55,7 +55,7 @@ $(document).ready(function() {
       {
         "name": "JQuery",
         "progress": 70,
-        "class": "progress-bar progress-bar-danger"
+        "class": "progress-bar progress-bar-success"
       },
       {
         "name": "Java",
