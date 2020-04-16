@@ -19,12 +19,12 @@ $(document).ready(function() {
       {
         "name": "Agile",
         "progress": 70,
-        "class": "progress-bar progress-bar-info"
+        "class": "progress-bar progress-bar-success"
       },
       {
         "name": "SAFe Agile",
         "progress": 70,
-        "class": "progress-bar progress-bar-info"
+        "class": "progress-bar progress-bar-success"
       },
       {
         "name": "PMBOOK",
@@ -65,7 +65,7 @@ $(document).ready(function() {
       {
         "name": "Perl",
         "progress": 70,
-        "class": "progress-bar progress-bar-warning"
+        "class": "progress-bar progress-bar-success"
       },
       {
         "name": "MySQL",
@@ -100,7 +100,7 @@ $(document).ready(function() {
       {
         "name": "Linux",
         "progress": 70,
-        "class": "progress-bar progress-bar-warning"
+        "class": "progress-bar progress-bar-success"
       },
       {
         "name": "Bash",
