@@ -89,8 +89,8 @@ $(document).ready(function() {
       },
       {
         "name": "YAML",
-        "progress": 50,
-        "class": "progress-bar progress-bar-danger"
+        "progress": 60,
+        "class": "progress-bar progress-bar-warning"
       },
       {
         "name": "Windows",
