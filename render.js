@@ -115,13 +115,13 @@ $(document).ready(function() {
       },
       {
         "name": "Docker",
-        "progress": 20,
-        "class": "progress-bar progress-bar-danger"
+        "progress": 60,
+        "class": "progress-bar progress-bar-warning"
       },
       {
         "name": "Kubernetes",
-        "progress": 20,
-        "class": "progress-bar progress-bar-danger"
+        "progress": 60,
+        "class": "progress-bar progress-bar-warning"
       },
     ]
   };
