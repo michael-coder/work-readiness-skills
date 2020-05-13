@@ -110,8 +110,8 @@ $(document).ready(function() {
 
       {
         "name": "Cloud Computing",
-        "progress": 20,
-        "class": "progress-bar progress-bar-danger"
+        "progress": 60,
+        "class": "progress-bar progress-bar-warning"
       },
       {
         "name": "Docker",
